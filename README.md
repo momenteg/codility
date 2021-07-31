@@ -3,7 +3,7 @@
 Repo with a set of solutions for the exercises listed in the [codility programmers lessons](https://app.codility.com/programmers/lessons/)
 
 ## Acknowledgments:
-This repo was inspired by [johnmee](https://github.com/johnmee/codility), to whome I own a big thank you, overwise I would have had to actually write the unit tests by hand :) 
+This repo was inspired by [johnmee](https://github.com/johnmee/codility), to whom I own a big thank you, overwise I would have had to actually write the unit tests by hand :) 
 
 My solutions are often different therefore I version them here. 
 
