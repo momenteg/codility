@@ -13,11 +13,7 @@ def solution(A, K):
     elif K == len(A) or K == 0:
         return A
 
-    for item in A[-K:]:
-        new_list.append(item)
-
-    for item in A[:-K]:
-        new_list.append(item)
+    new_list = A[-K:] + A[:-K]
 
     return new_list
 
